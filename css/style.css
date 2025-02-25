@@ -917,6 +917,12 @@ video{
 .footer_section a {
   color: rgba(254, 254, 255, 0.7);
 }
+.gallery{
+  height:auto;
+  width:60px;  
+}
+
+
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
