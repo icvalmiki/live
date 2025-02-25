@@ -4,6 +4,10 @@ body {
   color: #0c0c0c;
   background-color: #ffffff;
 }
+#pp{
+  height:auto;
+  width:80%;
+}
 
 .layout_padding {
   padding-top: 90px;
